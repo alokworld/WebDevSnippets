@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: red;
+    color:white;
+    padding:20px;
+    text-align:center;
+    position: -webkit-sticky;
+    position:sticky;
+    top:0;
+    z-index:100;
+}
+.content{
+    padding: 5px;
+}
